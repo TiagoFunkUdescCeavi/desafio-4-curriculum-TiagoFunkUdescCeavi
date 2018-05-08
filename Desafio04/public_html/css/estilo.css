@@ -1,0 +1,36 @@
+article{
+    position: relative;
+    margin: 0px;
+}
+
+#lado_esquerdo{
+    position: relative;
+    float: left;
+    background-color: #3498DB;
+    width: 620px;
+    margin: 0px;
+    padding-top: 50px;
+    color: #ECF0F1;
+}
+
+#lado_direito{
+    float: left;
+    background-color: #ECF0F1;
+    background-color: red;
+    width: 620px;
+    height: 10px;
+}
+
+#foto_perfil{
+    position: relative;
+    margin-left: 200px;
+    width: 150px;
+}
+
+h1{
+    margin-left: 200px;
+}
+
+h2{
+    margin-left: 120px;
+}
