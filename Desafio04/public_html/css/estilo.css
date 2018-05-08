@@ -16,9 +16,8 @@ article{
 #lado_direito{
     float: left;
     background-color: #ECF0F1;
-    background-color: red;
+    /*background-color: red;*/
     width: 620px;
-    height: 10px;
 }
 
 #foto_perfil{
@@ -33,4 +32,26 @@ h1{
 
 h2{
     margin-left: 120px;
+}
+
+h3{
+    margin-left: 120px;
+    margin-bottom: 0px;
+}
+
+p{
+    margin-top: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+P.info{
+    margin-top: 0px;
+}
+
+.icones{
+    position: relative;
+    float: left;
+    margin-left: 50px;
+    width: 50px;
 }
