@@ -11,6 +11,7 @@ article{
     margin: 0px;
     padding-top: 50px;
     color: #ECF0F1;
+    height: 1000px;
 }
 
 #lado_direito{
@@ -54,4 +55,15 @@ P.info{
     float: left;
     margin-left: 50px;
     width: 50px;
+}
+
+.w3-border{
+    position: relative;
+    float: left;
+    margin-left: 120px;
+    background-color: yellow;
+}
+
+.w3-grey{
+    background-color: red;
 }
